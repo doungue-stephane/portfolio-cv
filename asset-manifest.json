@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio-cv/static/css/main.faba5e0f.css",
+    "main.js": "/portfolio-cv/static/js/main.4d8aad0c.js",
+    "static/media/pipeline.png": "/portfolio-cv/static/media/pipeline.6d1afc8e5f923dc54bac.png",
+    "static/media/datarepository.png": "/portfolio-cv/static/media/datarepository.d78340feb018d7dbea1c.png",
+    "static/media/dashboard-screen.png": "/portfolio-cv/static/media/dashboard-screen.284d9ccc900c4a34bb18.png",
+    "static/media/data.png": "/portfolio-cv/static/media/data.7bb9eed33ce5c9b6cc89.png",
+    "static/media/CVAngeDjahan.pdf": "/portfolio-cv/static/media/CVAngeDjahan.da2ab14a0a811f99ae2e.pdf",
+    "static/media/contactImg.png": "/portfolio-cv/static/media/contactImg.8ddfbfd11798f881db54.png",
+    "static/media/prof.png": "/portfolio-cv/static/media/prof.793af3db3b3e503fd86f.png",
+    "static/media/segmentation.jpg": "/portfolio-cv/static/media/segmentation.f56faec37166e241d95d.jpg",
+    "static/media/testimonialOne.png": "/portfolio-cv/static/media/testimonialOne.c4706b2d1cadcb9f4daf.png",
+    "static/media/prevision.jpg": "/portfolio-cv/static/media/prevision.3ecfa15a9afd2fb70373.jpg",
+    "static/media/testimonialTwo.png": "/portfolio-cv/static/media/testimonialTwo.c6df2773c486964035d9.png",
+    "index.html": "/portfolio-cv/index.html",
+    "main.faba5e0f.css.map": "/portfolio-cv/static/css/main.faba5e0f.css.map",
+    "main.4d8aad0c.js.map": "/portfolio-cv/static/js/main.4d8aad0c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.faba5e0f.css",
+    "static/js/main.4d8aad0c.js"
+  ]
+}
